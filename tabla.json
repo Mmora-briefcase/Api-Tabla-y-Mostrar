@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "nombre": "Harry",
+        "email": "info@gmail.com",
+        "estado": false
+    },
+    {
+        "id": 2,
+        "nombre": "Debra",
+         "email": "info@gmail.com",
+
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "Dexter",
+         "email": "info@gmail.com",
+
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Rita",
+         "email": "info@gmail.com",
+        "estado": true
+    },
+    
+    {
+        "id": 1,
+        "nombre": "Harry",
+        "email": "info@gmail.com",
+        "estado": false
+    },
+    {
+        "id": 2,
+        "nombre": "Debra",
+         "email": "info@gmail.com",
+
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "Dexter",
+         "email": "info@gmail.com",
+
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Rita",
+         "email": "info@gmail.com",
+        "estado": true
+    }
+]
